@@ -1,4 +1,4 @@
-# Smart Travel Recommendation System (Research Paper Based Web Interface)
+# Book Recommendation System (Research Paper Based Web Interface)
 
 ## Student Details
 Name: Gayatri Ekre
