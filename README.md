@@ -1,33 +1,68 @@
-# Book Recommendation System (Research Paper Based Web Interface)
+# 📚 Book Recommendation System (Research Paper Based Web Interface)
 
-## Student Details
-Name: Gayatri Ekre
-Roll Number: 101
-Department: Computer Science and Engineering
+## 👩‍🎓 Student Details
+Name: Gayatri Ekre  
+Roll No: 101  
+Department: Computer Science and Engineering (CSE)
 
-## Research Paper Reference
-Title: Book Recommendation System Using Machine Learning
-Link: https://www.researchgate.net/publication/391643790_BOOK_RECOMMENDATION_SYSTEM_USING_MACHINE_LEARNING
+---
 
-## Project Objective
-The objective of this assignment is to study a research paper based system and implement similar web interface pages using HTML and CSS.
+## 📖 Research Paper Reference
+Title: Book Recommendation System Using Machine Learning  
+Link: https://www.researchgate.net/publication/391647390_BOOK_RECOMMENDATION_SYSTEM_USING_MACHINE_LEARNING
 
-## Project Overview
-This project is a web interface inspired by recommendation systems discussed in the research paper.
-The system allows users to explore travel destinations and view recommended travel plans.
+This project is inspired by the concepts discussed in the research paper and focuses on creating a simple web interface that represents how recommendation systems work.
 
-## Pages Developed
-1. Home Page
-2. Search Page
-3. Recommendation Page
+---
 
-## Technologies Used
-HTML
-CSS
+## 🎯 Project Objective
+The main objective of this project is:
+- To study a research paper related to recommendation systems
+- To understand how recommendation algorithms work
+- To implement a simple web-based interface using HTML and CSS
+- To simulate how a book recommendation system suggests books to users
 
-## Project Structure
-index.html
-search.html
-accomodate.html
-style.css
-screenshots folder
+---
+
+## 💡 Project Overview
+A Book Recommendation System helps users find books based on their interests.  
+Many online platforms like Amazon and Goodreads use recommendation systems to suggest books.
+
+This project demonstrates a basic idea of such a system through a frontend interface.
+
+Users can:
+- Search for books
+- View recommended books
+- Explore different book categories
+
+---
+
+## 🏗️ System Architecture
+The system works in the following steps:
+
+1. User enters a book name in the search bar
+2. The system processes the request
+3. Similar books are displayed as recommendations
+4. User can explore more books
+
+---
+
+## 📄 Pages Developed
+1. Home Page (index.html)
+2. Search Page (search.html)
+3. Recommendation Page (recommend.html)
+
+Each page is connected and designed to simulate a real recommendation system interface.
+
+---
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- GitHub
+- VS Code
+- Web Browser
+
+---
+
+## 📂 Project Structure
